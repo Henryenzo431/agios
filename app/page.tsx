@@ -1,5 +1,5 @@
 export default function Home() {
-  const PAY_LINK = "#"; // on mettra le lien Stripe ici à l'action suivante
+  const PAY_LINK = "https://buy.stripe.com/5kQaEX1fe12b4qsbGTeME00"; // on mettra le lien Stripe ici à l'action suivante
 
   return (
     <main className="min-h-screen bg-[#FBF7EE] text-[#14213D]">
